@@ -1,0 +1,4 @@
+C:\Users\usuario\Pictures\Pecesweb\Pecesweb\obj\Debug\Pecesweb.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\Pecesweb\Pecesweb\obj\Debug\Pecesweb.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Pecesweb\Pecesweb\obj\Debug\Pecesweb.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Pecesweb\Pecesweb\obj\Debug\Pecesweb.csproj.CoreCompileInputs.cache
